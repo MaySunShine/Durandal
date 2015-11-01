@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-# Durandal
-=======
-# durandal
->>>>>>> origin/master
+DURANDAL
